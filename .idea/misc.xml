@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-security-01/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-02/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-03web/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-04split/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-07password/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-06split-verifycode/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-08rememberme/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-10rememberme-split/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-09rememberme-web/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-11session-managerment/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-12csrf-blank/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-12csrf-attack/pom.xml" />
+        <option value="$PROJECT_DIR$/srping-security-16authority/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-18-oauth-github/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-19authorization-server/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

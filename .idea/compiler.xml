@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-security-02" />
+        <module name="spring-security-01" />
+        <module name="spring-security-18-oauth-github" />
+        <module name="spring-security-07password" />
+        <module name="srping-security-08rememberme" />
+        <module name="spring-security-03web" />
+        <module name="srping-security-16authority" />
+        <module name="spring-security-19authorization-server" />
+        <module name="spring-security-04split" />
+        <module name="spring-security-09rememberme-web" />
+        <module name="spring-security-12csrf-blank" />
+        <module name="spring-security-06split-verifycode" />
+        <module name="spring-security-08rememberme" />
+        <module name="spring-security-10rememberme-split" />
+        <module name="spring-security-12csrf-attack" />
+        <module name="spring-security-11session-managerment" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-security-01" target="1.8" />
+      <module name="spring-security-02" target="1.8" />
+      <module name="spring-security-03web" target="1.8" />
+      <module name="spring-security-04split" target="1.8" />
+      <module name="spring-security-05web-verifycode" target="1.8" />
+      <module name="spring-security-06split-verifycode" target="1.8" />
+      <module name="spring-security-07password" target="1.8" />
+      <module name="spring-security-08rememberme" target="1.8" />
+      <module name="spring-security-09rememberme-web" target="1.8" />
+      <module name="spring-security-10rememberme-split" target="1.8" />
+      <module name="spring-security-11session-managerment" target="1.8" />
+      <module name="spring-security-12csrf-attack" target="1.8" />
+      <module name="spring-security-12csrf-blank" target="1.8" />
+      <module name="spring-security-18-oauth-github" target="1.8" />
+      <module name="spring-security-19authorization-server" target="1.8" />
+      <module name="srping-security-08rememberme" target="1.8" />
+      <module name="srping-security-16authority" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
